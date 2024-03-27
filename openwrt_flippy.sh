@@ -54,7 +54,7 @@ KERNEL_TAGS=("stable" "rk3588" "rk35xx")
 STABLE_KERNEL=("6.1.1" "5.15.1")
 RK3588_KERNEL=("5.10.160")
 RK35XX_KERNEL=("5.10.160")
-KERNEL_AUTO_LATEST_VALUE="true"
+KERNEL_AUTO_LATEST_VALUE="false"
 
 # Set the working directory under /opt
 SELECT_PACKITPATH_VALUE="openwrt_packit"
